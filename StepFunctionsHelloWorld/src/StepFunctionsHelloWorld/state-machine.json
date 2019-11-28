@@ -1,0 +1,18 @@
+﻿{
+  "Comment": "State Machine",
+  "StartAt": "WaitToActivate",
+  "States" : {
+    "WaitToActivate" : {
+      
+      "Type" : "Wait",
+      "SecondsPath" : "$.WaitInSeconds",
+      "Next": "PremiumUser"
+    },
+  
+    "PremiumUser": {
+      "Type": "Task",
+      "Resource": "${PremiumUserTask.Arn}",
+      "End": true
+    }
+  }
+}

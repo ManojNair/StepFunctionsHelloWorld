@@ -1,0 +1,38 @@
+{
+  "AWSTemplateFormatVersion" : "2010-09-09",
+  "Transform" : "AWS::Serverless-2016-10-31",
+  "Description" : "An AWS Serverless Application.",
+
+  "Resources" : {
+  
+
+
+    "PremiumUserTask" : {
+        "Type" : "AWS::Lambda::Function",
+        "Properties" : {
+            "Handler" : "StepFunctionsHelloWorld::StepFunctionsHelloWorld.StepFunctionTasks::PremiumUser",
+            "Role"    : "arn:aws:iam::998516739712:role/LambdaBasicExecution",
+            "Runtime" : "dotnetcore2.1",
+            "MemorySize" : 256,
+            "Timeout" : 30,
+            "Code" : {
+                "S3Bucket" : "",
+                "S3Key" : ""
+            }
+        }
+    },
+
+    "StateMachine" : {
+        "Type" : "AWS::StepFunctions::StateMachine",
+        "Properties": {
+            "RoleArn": "arn:aws:iam::998516739712:role/service-role/StepFunctionsRole",
+            "DefinitionString": { "Fn::Sub": "" }
+        }
+    },
+    
+
+  },
+
+  "Outputs" : {
+  }
+}

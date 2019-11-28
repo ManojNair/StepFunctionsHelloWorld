@@ -1,0 +1,10 @@
+/Users/manonair/RiderProjects/StepFunctionsHelloWorld/StepFunctionsHelloWorld/src/StepFunctionsHelloWorld/bin/Release/netcoreapp2.1/rhel.7.2-x64/StepFunctionsHelloWorld.deps.json
+/Users/manonair/RiderProjects/StepFunctionsHelloWorld/StepFunctionsHelloWorld/src/StepFunctionsHelloWorld/bin/Release/netcoreapp2.1/rhel.7.2-x64/StepFunctionsHelloWorld.runtimeconfig.json
+/Users/manonair/RiderProjects/StepFunctionsHelloWorld/StepFunctionsHelloWorld/src/StepFunctionsHelloWorld/bin/Release/netcoreapp2.1/rhel.7.2-x64/StepFunctionsHelloWorld.runtimeconfig.dev.json
+/Users/manonair/RiderProjects/StepFunctionsHelloWorld/StepFunctionsHelloWorld/src/StepFunctionsHelloWorld/bin/Release/netcoreapp2.1/rhel.7.2-x64/StepFunctionsHelloWorld.dll
+/Users/manonair/RiderProjects/StepFunctionsHelloWorld/StepFunctionsHelloWorld/src/StepFunctionsHelloWorld/bin/Release/netcoreapp2.1/rhel.7.2-x64/StepFunctionsHelloWorld.pdb
+/Users/manonair/RiderProjects/StepFunctionsHelloWorld/StepFunctionsHelloWorld/src/StepFunctionsHelloWorld/obj/Release/netcoreapp2.1/rhel.7.2-x64/StepFunctionsHelloWorld.csprojAssemblyReference.cache
+/Users/manonair/RiderProjects/StepFunctionsHelloWorld/StepFunctionsHelloWorld/src/StepFunctionsHelloWorld/obj/Release/netcoreapp2.1/rhel.7.2-x64/StepFunctionsHelloWorld.AssemblyInfoInputs.cache
+/Users/manonair/RiderProjects/StepFunctionsHelloWorld/StepFunctionsHelloWorld/src/StepFunctionsHelloWorld/obj/Release/netcoreapp2.1/rhel.7.2-x64/StepFunctionsHelloWorld.AssemblyInfo.cs
+/Users/manonair/RiderProjects/StepFunctionsHelloWorld/StepFunctionsHelloWorld/src/StepFunctionsHelloWorld/obj/Release/netcoreapp2.1/rhel.7.2-x64/StepFunctionsHelloWorld.dll
+/Users/manonair/RiderProjects/StepFunctionsHelloWorld/StepFunctionsHelloWorld/src/StepFunctionsHelloWorld/obj/Release/netcoreapp2.1/rhel.7.2-x64/StepFunctionsHelloWorld.pdb
